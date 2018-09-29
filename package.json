@@ -1,0 +1,13 @@
+{
+  "name": "204-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.5.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
